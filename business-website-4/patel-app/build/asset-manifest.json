@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patel-consulting/static/css/main.d895dd6b.css",
+    "main.js": "/patel-consulting/static/js/main.0279d8ab.js",
+    "static/js/453.01fcfb9b.chunk.js": "/patel-consulting/static/js/453.01fcfb9b.chunk.js",
+    "index.html": "/patel-consulting/index.html",
+    "main.d895dd6b.css.map": "/patel-consulting/static/css/main.d895dd6b.css.map",
+    "main.0279d8ab.js.map": "/patel-consulting/static/js/main.0279d8ab.js.map",
+    "453.01fcfb9b.chunk.js.map": "/patel-consulting/static/js/453.01fcfb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d895dd6b.css",
+    "static/js/main.0279d8ab.js"
+  ]
+}
