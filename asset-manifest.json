@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/patelconsultingservices/web.git/static/css/main.f855e6bc.css",
-    "main.js": "/patelconsultingservices/web.git/static/js/main.5dd45498.js",
+    "main.css": "/patelconsultingservices/web.git/static/css/main.d895dd6b.css",
+    "main.js": "/patelconsultingservices/web.git/static/js/main.0f446582.js",
     "static/js/453.2872add3.chunk.js": "/patelconsultingservices/web.git/static/js/453.2872add3.chunk.js",
-    "static/media/logo.svg": "/patelconsultingservices/web.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/patelconsultingservices/web.git/index.html",
-    "main.f855e6bc.css.map": "/patelconsultingservices/web.git/static/css/main.f855e6bc.css.map",
-    "main.5dd45498.js.map": "/patelconsultingservices/web.git/static/js/main.5dd45498.js.map",
+    "main.d895dd6b.css.map": "/patelconsultingservices/web.git/static/css/main.d895dd6b.css.map",
+    "main.0f446582.js.map": "/patelconsultingservices/web.git/static/js/main.0f446582.js.map",
     "453.2872add3.chunk.js.map": "/patelconsultingservices/web.git/static/js/453.2872add3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5dd45498.js"
+    "static/css/main.d895dd6b.css",
+    "static/js/main.0f446582.js"
   ]
 }
